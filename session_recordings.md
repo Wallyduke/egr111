@@ -3,7 +3,7 @@
 ### Session Recordings
 
 
-- [01/15/2023]()
+- [01/15/2023](https://nmc.zoom.us/rec/share/KFTz5Iyp5juq6Z7u4NPARB3CzS1qTMXXU1E92kg2Lj5TFjhm-_xgG8VUEjkITHf4.6hF3zd2hDeuLGM7M)
 
 <!--
 - [01/17/2023]()
