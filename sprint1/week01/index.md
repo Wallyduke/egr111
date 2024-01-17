@@ -27,7 +27,10 @@ layout: default
   - [Relational database - tables, records, fields](https://www.geeksforgeeks.org/relational-model-in-dbms/){:target="_blank"}
   - [Relational(SQL) vs. Document (NoSQL) databases](https://www.geeksforgeeks.org/difference-between-sql-and-nosql/){:target="_blank"} 
   
-  
+- Introduction to C
+  - [Learn to Code with C](../../resources/Essentials_C_v1.pdf){:target="_blank"} - Chapter 1
+  - [https://replit.com/languages/c](https://replit.com/languages/c){:target="_blank"}
+
 - [Raspberry Pi Startup](006.RPiStartup.pdf){:target="_blank"} (Instructor Demo Only)
 - [Introduction to Linux](007.LinuxIntro.pdf){:target="_blank"} (Instructor Demo Only)
 - [Introduction to VS Code](008.VSCodeIntro.pdf){:target="_blank"} (Instructor Demo Only)
