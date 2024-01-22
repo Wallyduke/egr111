@@ -7,6 +7,8 @@ layout: default
 ### [EGR111](../../) - [Sprint 1](../) - Week 02
 
 **Session 1**
+- Note: No class next Monday, Jan 29. KEK is at a conference.
+
 - Week 01 review - [number systems](https://www.log2base2.com/number-system/decimal-number-system.html){:target="_blank"} 
   - use programmer calculator
   - Convert binary 0000 0100 1100 1001 to decimal
