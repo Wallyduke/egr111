@@ -42,7 +42,7 @@ layout: default
     - Uses Linux operating system (OS)
       - ![Linux Market Share](LinuxMarketShare.png)
       - [Does Mac OS X use Linux?](https://stackoverflow.com/questions/24888954/does-mac-os-x-use-linux){:target="_blank"}
-      - What is Windows Subsystem for Linux(https://learn.microsoft.com/en-us/windows/wsl/about)
+      - [What is Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about){:target="_blank"}
 - VS Code on your workstation?
   -  [Visual Studio Code download](https://code.visualstudio.com/download){:target="_blank"}
   - [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp){:target="_blank"}
