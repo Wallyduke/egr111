@@ -48,6 +48,7 @@ layout: default
   - [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp){:target="_blank"}
 
 **Session 2**
+
 <!-- 
   - Chapter Two: [VARIABLES & ARITHMETIC](../../resources/Essentials_C_v1.pdf){:target="_blank"}
   - [Operators in C](https://www.geeksforgeeks.org/operators-in-c/){:target="_blank"}
@@ -138,7 +139,7 @@ Prompt: Write a program that asks the user to enter a large number of seconds (e
 ### Assignments 
 - Number systems worksheet - submit to Moodle link
 - Workspace on Pi (not submitted at this time)
-  - EGR111
+  - EGR111_temp
     - week01
     - week02
       - c_version
