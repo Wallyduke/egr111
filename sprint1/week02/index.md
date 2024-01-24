@@ -49,7 +49,6 @@ layout: default
 
 **Session 2**
 
-<!-- 
   - Chapter Two: [VARIABLES & ARITHMETIC](../../resources/Essentials_C_v1.pdf){:target="_blank"}
   - [Operators in C](https://www.geeksforgeeks.org/operators-in-c/){:target="_blank"}
   - [Operator Precedence and Associativity in C](https://www.geeksforgeeks.org/operator-precedence-and-associativity-in-c/){:target="_blank"}
@@ -58,8 +57,9 @@ layout: default
   - Prompt: Develop a program that converts temperature from Fahrenheit to Celsius and vice versa. The user should be able to choose the conversion direction and enter the temperature value.
   - Using scanf() function for user input
     - ChatGPT prompt: Please provide a basic overview of using the scanf function in C.
-    - Operator 
-    - Specific extension of int/int will be demonstrated. 
+    - Operators 
+    - Specific extension of int/int will be demonstrated.
+    - left to right Associativity will be demonstrated.  
   - Code will be extended to use preprocessor #define 
   - Specific extension of int/int will be demonstrated.  
 
@@ -73,6 +73,7 @@ layout: default
 
   - C Lanugage
     - GCC compiler is installed by default in RPi OS
+    - gcc --version
 
   - Visual Studio Code
     - Use the following command at a terminal prompt
@@ -81,14 +82,18 @@ layout: default
 
 - The instructor will demonstrate copying repl code to this week's directory on Pi. VS code edit, compile, run, and debug will be demonstrated.
 
+- Pair coding using Zoom Breakouts
+  - Grocery Bill Estimator
+    - grocery_bill.c
+    - use preprocessor #define to specify pricing for items
+    - **Prompt:** Create a program where users can enter the quantity and price of various grocery items (like apples, bread, milk). The program should calculate and display the total cost, including a sales tax rate of 6%.
 
-Grocery Bill Estimator":
-
-Prompt: Create a program where users can enter the quantity and price of various grocery items (like apples, bread, milk). The program should calculate and display the total cost, including a sales tax rate of 6%.
-
-"Time Conversion Challenge":
-
-Prompt: Write a program that asks the user to enter a large number of seconds (e.g., 5000 seconds) and then converts and displays this time in the format of hours, minutes, and seconds. For example, 3665 seconds would be converted to 1 hour, 1 minute, and 5 seconds. -->
+    -Time Conversion
+      - time_convert.c
+      - use preprocessor #define to specify 
+        - SECONDS_PER_MINUTE
+        - MINUTES_PER_HOUR
+      - **Prompt:** Write a program that asks the user to enter a large number of seconds (e.g., 5000 seconds) and then converts and displays this time in the format of hours, minutes, and seconds. For example, 3665 seconds would be converted to 1 hour, 1 minute, and 5 seconds.
 
 <!-- - Week 02 Review
   - ChatGPT?
@@ -138,7 +143,7 @@ Prompt: Write a program that asks the user to enter a large number of seconds (e
 
 ### Assignments 
 - Number systems worksheet - submit to Moodle link
-- Workspace on Pi (not submitted at this time)
+- Workspace on Pi *(not submitted at this time)*
   - EGR111_temp
     - week01
     - week02
@@ -146,6 +151,10 @@ Prompt: Write a program that asks the user to enter a large number of seconds (e
       - c_version.c
       - hello
       - hello.c
+      - grocery_bill
+      - grocery_bill.c
+      - time_convert
+      - time_convert.c
 
 
 
