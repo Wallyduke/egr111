@@ -97,12 +97,15 @@ No class - kek at MICEC Conference
       - time_convert.c
     - -week03
       - TBD
+
 <!-- - style
       - style.c
       - tictactoe_brd
       - tictactoe_brd.c
       - temp_convert
-      - temp_convert.c -->
+      - temp_convert.c 
+      -->
+    
     .gitignore
     README.md
 
